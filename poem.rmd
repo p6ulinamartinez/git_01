@@ -15,7 +15,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-
+A Mother's breast:    
+Safe refuge from her childish fears,    
+From childish troubles, childish tears,    
+Mists that enshroud her dawning years!  
+see how in sleep she seems to sing  
+   
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 Two roads diverged in a yellow wood,   
@@ -42,3 +47,18 @@ After the day was done
    
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+Shall I compare thee to a summer's day?   
+Thou art more lovely and more temperate   
+Rough winds do shake the darling buds of May   
+And summer's lease hath all too short a date   
+Sometime too hot the eye of heaven shines,   
+And often is his gold complexion dimm'd   
+And every fair from fair sometime declines,   
+By chance or nature's changing course untrimm'd   
+But thy eternal summer shall not fade,   
+Nor lose possession of that fair thou ow'st   
+Nor shall death brag thou wander'st in his shade,   
+When in eternal lines to time thou grow'st    
+So long as men can breathe or eyes can see,   
+So long lives this, and this gives life to thee.   
+   
